@@ -1,24 +1,26 @@
-### Hi there 👋
+## Olá, sou o Luis! Bem-vindo ao meu perfil.
 
-## Welcome to my profile 
-
-<img src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="240" height="240" />
-
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
-
-### 🛠 &nbsp;
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-### ⚙️ &nbsp; 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-### 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiigii&show_icons=true&theme=radical)
+ <div>
+  <a href="https://github.com/luiigii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiigii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiigii&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+  ## 
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ## 
+  
+<div>
+  <a href = "mailto:luis93667@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luisgustavoterrinha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/luiigii/luiigii/blob/output/github-contribution-grid-snake.svg)
+</div>
